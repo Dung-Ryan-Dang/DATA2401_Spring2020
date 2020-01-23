@@ -13,7 +13,7 @@ The link to the website for this quote is
 
 |**course number**|*course title*|Instructor name|
 |:----------------|:-------------|:--------------|
-| **CS 4318**|*Database Management Systems*|Dr. Shengli Yuan|
+| CS 4318|Database Management Systems|Dr. Shengli Yuan|
 
 # Terminal command
 

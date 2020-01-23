@@ -21,9 +21,7 @@ The link to the website for this quote is
 
 Example
 
-```
-touch readme1 readme2 readme3
-```
+>touch readme1 readme2 readme3
 
 - Touch can be used to create a file without knowing the extention.
 - To create multiple files just write the file names, separated by a space " ".

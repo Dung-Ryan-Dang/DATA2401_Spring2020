@@ -11,7 +11,7 @@ The link to the website for this quote is
 [http://taxonomyofdesign.com/#!/store?store=70&section=quote]
 
 
-|**course number**|*course title*|Instructor name|
+|**Course number**|*Course title*|Instructor name|
 |:----------------|:-------------|:--------------|
 | CS 4318|Database Management Systems|Dr. Shengli Yuan|
 
